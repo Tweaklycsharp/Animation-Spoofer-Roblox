@@ -1,7 +1,5 @@
 # 🚀 Mars Spoofer
 
-Here is a comprehensive, professional, and GitHub-optimized `README.md` template specifically designed for your **Mars Spoofer** project.
-
 **Mars Spoofer** is a powerful utility designed for Roblox developers and animators. It bypasses asset ID restrictions by "spoofing" (simulating) animations and audio files, facilitating seamless testing and rapid application of overrides.
 
 ## ✨ Features
